@@ -1,19 +1,12 @@
 ## Team
 
-I'm a member and Deputy Head of the **[Data Mining and Machine Learning (DM2L)](https://projet.liris.cnrs.fr/dm2l/)**  team, a team of about 6 permanent researchers in the **[LIRIS](http://liris.cnrs.fr)**  lab (CNRS,UCBL).  
+I'm a member of the **[Complex Networks]** Team, LIP6 Lab, Sorbonne Université
 
-I'm also a member of  **[IXXI](http://www.ixxi.fr)**, Lyon's Institute of Complex Systems.
-
-  
 On this page, I list students I'm currently working with, or that I have supervised in the past.  
 
 --- * ---
 
 ## Currently in the team
-
-## Post-Doc
-
-- From 2023 - [Célestin Coquidé](https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en) - Funded by BIT-StableNet project
 
 ## PhD students
 
@@ -25,18 +18,21 @@ On this page, I list students I'm currently working with, or that I have supervi
 
 ## Past supervisions/collaborations
 
+## Post-Doc
+
+-  2023/2024- [Célestin Coquidé](https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en) - Funded by BIT-StableNet project
+- 
 ## Supervised PhD students
 
 [Earlier thesis supervisions](https://cazabetremy.fr/?page=activity/theses#earlier-supervisions).
 
-## Visiting
-
+## Visiting 
 - 2024 [Andrea Failla](https://scholar.google.com.ph/citations?user=6tQd-PIAAAAJ&hl=ro) (Pisa University, Italy), 3 months PhD internship
 - 2024 [Souaad Boudebza](https://scholar.google.com/citations?user=j9DgOwYAAAAJ&hl=en) (Assoc. Prof. Jijel University, Algeria)- 2023 [Andrea Failla](https://scholar.google.com.ph/citations?user=6tQd-PIAAAAJ&hl=ro) (Pisa University, Italy), 1 month PhD internship
   - 2022 [Salvatore Citraro](https://scholar.google.com/citations?user=G5KCw3YAAAAJ&hl=en&oi=sra) (Pisa University, Italy), 1 month PhD internship  [PAPER](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G5KCw3YAAAAJ&citation_for_view=G5KCw3YAAAAJ:Tyk-4Ss8FVUC) - 2018/2019 [Souaad Boudebza](https://scholar.google.com/citations?user=j9DgOwYAAAAJ&hl=en) (Jijel University, Algeria), 1 year PhD internship  [PAPER1](https://arxiv.org/pdf/1804.03842) - [PAPER2](https://arxiv.org/pdf/1907.10453)
 
 ## Interns
-
+- 2024/2025 - [Guilhem Dupuy] (Univ. Lyon1) - 5 months - mix mesoscale structures
 - 2022/2023 - [Yasaman Asgari](https://www.yasasgari.com) (ENS de Lyon) - 5 months - [Defining an evaluation setting for community detection in dynamic graphs](https://cazabetremy.fr/rTeam/Yasaman_Asgari_Master_s_report_last_version.pdf)
 - 2021/2022 -Sebastian Krawczyk (Univ. Paris 1 Panthéon Sorbonne) - 5 months - Cryptocurrency Price Evolution Analysis in relation with
   Complex Social Phenomenons and Network Effects [Technical Report](https://cazabetremy.fr/rTeam/Internship_Report_LIRIS_Sebastian_Krawczyk-2.pdf)
