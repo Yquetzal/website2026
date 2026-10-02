@@ -12,7 +12,7 @@ On this page, I list students I'm currently working with, or that I have supervi
 
 [Thesis supervision](https://cazabetremy.fr/?page=activity/theses#thesis-supervision).
 
-## Interns
+## Interns 2026/2027
 
 --- * ---
 
