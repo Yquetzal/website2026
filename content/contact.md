@@ -1,7 +1,7 @@
 <img class="portrait" src="https://cazabetremy.fr/assets/images/remy.png" alt="Rémy Cazabet" width="190" height="190">
 
 **Rémy Cazabet**  
-Associate professor · Network science  
+Associate professor · Maître de conférences/Lecturer SCAI
 Sorbonne Université · LIP6
 
 [Google Scholar](https://scholar.google.fr/citations?user=ZPeN_HAAAAAJ&hl=en&oi=ao) · [Publications](https://cazabetremy.fr/?page=publications)
