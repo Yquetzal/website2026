@@ -1,38 +1,31 @@
-## Courses
+## Courses 2026/2027
 
 - [Complex Networks · ENS de Lyon](https://cazabetremy.fr/?page=teaching/complex-networks)
-- [Machine Learning](https://cazabetremy.fr/?page=teaching/machine-learning)
-- [Data Mining](https://cazabetremy.fr/?page=teaching/data-mining)
-- [Data Analysis](https://cazabetremy.fr/?page=teaching/data-analysis)
-- [Networks & scientometrics](https://cazabetremy.fr/?page=teaching/scientometrics)
-- [LIFPROJET](https://cazabetremy.fr/?page=teaching/lifprojet)
-
+- [DALAS  · Master MIND · Sorbonne Université]()
+- [Mineure Science des Données  · L2 · Sorbonne Université]
+- 
 ## Overview
+I am currently in charge of 2 classes at Sorbonne Université related to Data Mining. 
 
-As associate professor of University Lyon 1 in the computer science department, I'm in charge of 4 classes and take part in a few others.
+I am also in charge of 1 class at ENS de Lyon, in the Complex System option at Master 2 level.
 
-I'm also in charge of master degree courses related to Complex Networks at Ecole Normale Superieur de Lyon and Paris 1 Pantheon Sorbonne.
+## Past Classes
 
-Finally, I regularly give special focused courses in summer school and other settings.  
-
-## Courses at the Computer Science Department of Lyon 1 University
+### Courses at the Computer Science Department of Lyon 1 University
 
 - [Machine Learning](https://cazabetremy.fr/?page=teaching/machine-learning): 6ECTS class for M2 international [DISS](http://master-info.univ-lyon1.fr/DISS/)
 - [Data Mining](https://cazabetremy.fr/?page=teaching/data-mining): 3ECTS class mutualised for M2 [Artificial Intelligence](http://master-info.univ-lyon1.fr/IA/) and [Data Science](http://master-info.univ-lyon1.fr/DS/)
 - [Data Analysis](https://cazabetremy.fr/?page=teaching/data-analysis): 3ECTS class mutualised for M2 [TIW](http://master-info.univ-lyon1.fr/TIW/) and [Bioinformatics](https://offre-de-formations.univ-lyon1.fr/front_fiche_parcours.php?PARCOURS_ID=1232)
-- [LIFPROJET (L3)](https://cazabetremy.fr/?page=teaching/lifprojet): I'm in charge of the second semester and take part in both semester. Results of some projects I proposed can be found  [here](https://cazabetremy.fr/?page=teaching/student-projects)
-- [POM (M1)](https://cazabetremy.fr/?page=teaching/master-projects): I propose and supervise projects around Machine learning/Data Science
+- 2017-2026: [LIFPROJET (L3)](https://cazabetremy.fr/?page=teaching/lifprojet): 6ECTS class at l3 level
 
-I was previously involved in the following classes:
+- 2017-2022: LIFAP3 (Advanced Programming), TD/TP- LIF POO (Object Oriented Programming), TD 
 
-- LIFAP3 (Advanced Programming), TD/TP- LIF POO (Object Oriented Programming), TD
-
-## Master classes in other universities
+### Master classes in other universities
 
 - [Master in Science of Complex Systems](http://www.ixxi.fr/enseignement/master_systemes_complexes). Lyon 1 University and Ecole Normale Superieure de Lyon. This program is part of the Masters of Physics, Computer Science and Biology. I'm teaching the course on *Complex Networks* (Lectures, 24h). [Webpage of the course](https://cazabetremy.fr/?page=teaching/complex-networks)
 - [M2 Finance Technology Data](https://www.pantheonsorbonne.fr/diplomes/mbfa/m2-finance-technology-data/). Paris 1 Pantheon Sorbonne. I'm teaching the course on *Bitcoin Network and Machine Learning* (Lectures, 18h). Webpage: TBD
 
-## Special Focus classes
+### Special Focus classes
 
 I sometimes give classes oustide of a regular university cursus. Here is a list of past classes:
 
