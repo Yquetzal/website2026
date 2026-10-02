@@ -1,6 +1,6 @@
 ## Team
 
-I'm a member of the **[Complex Networks]** Team, LIP6 Lab, Sorbonne Université
+I'm a member of the **[Complex Networks](https://www.complexnetworks.fr)** Team, LIP6 Lab, Sorbonne Université
 
 On this page, I list students I'm currently working with, or that I have supervised in the past.  
 
