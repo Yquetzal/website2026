@@ -1,0 +1,9 @@
+## Searching for a dataset
+
+- The general principle when you search for a dataset is to consider that you can find datasets on any topic on the internet.
+- As always, the best tool is your favorite search engine, so you can search something like "TOPIC dataset".
+- However, you can have a better chance by searching directly a dataset available on the platform Kaggle, searching in the search engine for something like "TOPIC kaggle dataset". See for instance the list of trending datasets: <https://www.kaggle.com/datasets>
+- A valuable source of datasets are official repositories from governments, cities, and international organisations. For instance, you can search for data from Lyon <https://data.grandlyon.com>, France <https://www.data.gouv.fr>, UN <http://data.un.org>, etc.
+- In some cases, you can use an API to access information on a particular website, and thus create your own dataset, for instance with Twitter <https://developer.twitter.com/en/docs>. Check here a list of intersting APIs: <https://www.springboard.com/blog/data-science/top-apis-for-data-scientists/>. Be careful however that an API is nearly always limited in its free version, and thus you need to restrain your research questions. e.g., on Twitter, you cannot find all occurences of a popular hashtag, you can only retrieve the last few occurences. Thus you must adapt your question to focus on a limited set of users/time/location...
+- Google has a search engine specifically designed to search for datasets: <https://datasetsearch.research.google.com>
+- If you are searching for datasets having a particular property, for instance network/graph datasets, then you can add this term to your search. You can also search not for a single dataset, but for **curated lists** of datasets, which would allow you for instance to find this list of network dataset repositories <https://github.com/briatte/awesome-network-analysis#datasets>

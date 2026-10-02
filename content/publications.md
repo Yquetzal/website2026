@@ -1,0 +1,1 @@
+Explore my coauthors and the journals and conferences where we publish. This overview is updated automatically from HAL. For the full bibliography, visit [Google Scholar](https://scholar.google.fr/citations?user=ZPeN_HAAAAAJ&hl=en&oi=ao) or [HAL](https://cv.hal.science/remy-cazabet).
