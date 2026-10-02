@@ -2,12 +2,15 @@
 
 - [Complex Networks · ENS de Lyon](https://cazabetremy.fr/?page=teaching/complex-networks)
 - [DALAS  · Master MIND · Sorbonne Université]()
-- [Mineure Science des Données  · L2 · Sorbonne Université]
-- 
+- [Mineure Science des Données  · L2 · Sorbonne Université]()
+
 ## Overview
+* I'm currently in a Lecture SCAI position, with 96h of Teaching duty per year.
+* From 2017 to 2026 I was Maître de Conférences with a teaching duty of 192h per year.
+
 I am currently in charge of 2 classes at Sorbonne Université related to Data Mining. 
 
-I am also in charge of 1 class at ENS de Lyon, in the Complex System option at Master 2 level.
+I am also in charge of one class at ENS de Lyon, in the Complex System option at Master 2 level.
 
 ## Past Classes
 
