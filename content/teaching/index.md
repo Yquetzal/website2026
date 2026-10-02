@@ -1,4 +1,4 @@
-## Courses 2026/2027
+## Classes 2026/2027
 
 - [Complex Networks · ENS de Lyon](https://cazabetremy.fr/?page=teaching/complex-networks)
 - [DALAS  · Master MIND · Sorbonne Université]()
