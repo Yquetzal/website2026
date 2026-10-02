@@ -8,17 +8,12 @@ Sorbonne Université · LIP6
 
 ## Contact
 
-[remy.cazabet@univ-lyon1.fr](mailto:remy.cazabet@univ-lyon1.fr)  
+[remy.cazabet@sorbonne-universite.fr](mailto:remy.cazabet@sorbonne-universite.fr)  
 [remy.cazabet@gmail.com](mailto:remy.cazabet@gmail.com)
 
 For a first contact, or if I do not reply, please use Gmail: the institutional address occasionally suffers from strong spam filters.
 
-### Lyon offices
-
-**Blaise Pascal / Ada Lovelace**  
-Office 502.3.22 · 3rd floor  
-12–14 rue de la Physique, Campus de la Doua, Lyon.
-
-**Nautibus**  
-Office 12.062 · 2nd floor  
-23 avenue Pierre de Coubertin, Campus de la Doua, Lyon.
+### LIP6, Sorbonne Université
+ 
+Office 26-00/303 · 3rd floor  
+4 Pl. Jussieu, 75005 Paris
