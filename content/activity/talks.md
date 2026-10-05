@@ -15,7 +15,7 @@ Invited talks, research visits, classes, session chairing and other news. For do
 
 | Date | Title | Event |
 | --- | --- | --- |
-| 2025/06 | Co-organized [CCS/France Phd-Award](http://css-fr.org/prix-de-these-2025/)) | Besançon, France |
+| 2025/10 | Co-organized [CCS/France Phd-Award](http://css-fr.org/prix-de-these-2025/)) | Besançon, France |
 | 2025/06 | Co-organizing TENET workshop|[TENET](https://sites.google.com/view/tenet-netsci/home) at Netsci2025(Maastricht) |  
 | 2025/01 | Birth of my daughter, Éléonore! | |
 | 2025/01 | Elected *Representative* of PCI Network Science | [PCI Network Science](https://networksci.peercommunityin.org) |
