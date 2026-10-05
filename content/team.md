@@ -28,6 +28,7 @@ On this page, I list students I'm currently working with, or that I have supervi
   
 ### Supervised PhD students
 
+- From 2023 - [Andrea Failla](https://andreafailla.github.io) - Pairwise and Higher-order Mixing Patterns in Online Social Networks - Co-supervision with Giulio Rossetti from University of Pisa
 - From 2023 - [Victor Brabant](https://liris.cnrs.fr/page-membre/victor-brabant) - Detection of dynamic communities in massive link streams - With [SAHAR](https://sahar.fr) company.
 - From 2021 - [Guimbaud Jean-Baptiste](https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud) - Combining exposome and domain knowledge for predicting health trajectories - CIFRE funding
 - From 2019 - [Rafael Ramos Tubino](https://liris.cnrs.fr/page-membre/rafael-ramos-tubino) - Network Analysis and Machine Learning to understand the nature of activities in cryptocurrencies - ANR funding [PAPER 1](https://editions-rnti.fr/?inprocid=1002726) - [PAPER 2](https://hal.science/hal-03879416/document) - [PAPER 3](https://arxiv.org/pdf/2307.08616)
