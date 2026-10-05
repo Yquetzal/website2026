@@ -6,6 +6,7 @@ Invited talks, research visits, classes, session chairing and other news. For do
 | --- | --- | --- |
 | 2026/09 | Starting new position  | Sorbonne Université, LIP6, Paris |
 | 2026/07| Presentation *LLM mediated DeGroot* | LIP6, Sorbonne Univesrité, Lyon| 
+| 2026/06| Co-organized the Conference of the French Chapter of the CCS | CCS/France [Conférence](https://css-fr2026.sciencesconf.org), Lyon| 
 | 2026/06| Presentation *LLM mediated DeGroot* | Institut des Sciences Cognitives, Lyon| 
 | 2026/05| Presentation *Inteligencia Artificial y Sistemas Complejos* | [Zarzal, Colombia](https://www.instagram.com/tedesoft_zarzal/) | 
 | 2026/04| 2 Months visiting at Universidad Del Valle | [Univalle](https://www.univalle.edu.co/), Cali, Colombia|
