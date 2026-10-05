@@ -21,9 +21,11 @@ Thesis supervision and participation in doctoral examination committees.
 
 | Date | Participation | Institution / location |
 | --- | --- | --- |
+| 2026/09 |Jury member for Bastien Legay's Ph.D. Defense| Complex Networks team, LIP6, Paris, France|
+| 2026/06 |Jury member for Samuel Koovely's Ph.D. Defense| University of Zurich|
 | 2023/10 | Jury member for Ivan Slobozhan's Ph.D. Defense | University of Tartu, Estonia |
-| 2023/07 | Jury member for [Fabrice Lecuyer](https://fabrice.lecuyer.me)'s Ph.D. Defense | Complex Networks team  Paris, France |
-| 2022/03 | [Invited thesis Jury of Natkamon Tovanich](https://scholar.google.com/citations?user=KFnDm5QAAAAJ&hl=en) | Paris, France |
+| 2023/07 | Jury member for [Fabrice Lecuyer](https://fabrice.lecuyer.me)'s Ph.D. Defense | Complex Networks team, LIP6, Paris, France |
+| 2022/03 | Invited thesis Jury of [Natkamon Tovanich](https://scholar.google.com/citations?user=KFnDm5QAAAAJ&hl=en) | Paris, France |
 | 2020/12 | Invited Thesis Jury of M. Kanaan | LIRIS  Lyon, France (Online) |
 | 2020/12 | Thesis Jury of R. Poulain | LIP6  Paris, France (Online) |
 | 2019/08 | Thesis Jury of L. Gutierrez Gomez | [Thesis](https://scholar.google.fr/citations?user=pZrClicAAAAJ&hl=en&oi=ao).  Louvain-La-Neuve, Belgium |
