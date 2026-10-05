@@ -5,7 +5,7 @@ Invited talks, research visits, classes, session chairing and other news. For do
 | Date | Title | Event |
 | --- | --- | --- |
 | 2026/09 | Starting new position  | Sorbonne Université, LIP6, Paris |
-| 2026/05| Presentation Inteligencia Artificial y Sistemos Complejos | [Zarzal, Colombia](https://www.instagram.com/tedesoft_zarzal/) | 
+| 2026/05| Presentation Inteligencia Artificial y Sistemas Complejos | [Zarzal, Colombia](https://www.instagram.com/tedesoft_zarzal/) | 
 | 2026/04| 2 Months visiting at Universidad Del Valle | [Univalle](https://www.univalle.edu.co/), Cali, Colombia|
 
 ## 2025
