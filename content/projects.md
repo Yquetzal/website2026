@@ -2,7 +2,14 @@
 
 ## Ongoing Projects
 
-## Detection of Weak Signals in Graph-Oriented Data: An Approach Using LLM and DGNN
+#### AI4AD : AI for Augmanted Deliberation
+**Role:**  Hired Lecturer on the project
+**Dates:**  2026 - 2028
+**Funding:**  My salary + support   
+**Source of funding:**  [SCAI](https://scai.sorbonne-universite.fr/), Sorbonne Cluster for AI 
+
+
+#### Detection of Weak Signals in Graph-Oriented Data: An Approach Using LLM and DGNN
 
 **Role:**  PhD co-supervisor  
 **Dates:**  2024 - 2027  
@@ -11,6 +18,13 @@
 
 **Collaborators:**  Ludovic Moncla, Khalid Benabdeslem   
 Thèse CIFRE  
+
+ 
+
+
+--- * ---
+
+## Past Projects
 
 ## BIT-STABLENET: Extraction of stable relations between entities in crypto-currencies
 
@@ -75,12 +89,9 @@ Related publications :
 [Detection of overlapping communities in dynamical social networks](https://dl.acm.org/citation.cfm?id=1907424)  
 [Simulate to detect: a multi-agent system for community detection](http://ieeexplore.ieee.org/document/6040665/)
 
+
+
   
-
---- * ---
-
-## Past Projects
-
 ## BITUNAM: BITcoin User Network Analysis and Mining
 
 **Role:**  Project Leader, PhD main supervisor  
