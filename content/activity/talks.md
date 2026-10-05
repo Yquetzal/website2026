@@ -1,6 +1,6 @@
 Invited talks, research visits, classes, session chairing and other news. For doctoral examination committees, see [Thesis juries](https://cazabetremy.fr/?page=activity/theses#thesis-juries).
 
-## 2025
+## 2026
 
 | Date | Title | Event |
 | --- | --- | --- |
