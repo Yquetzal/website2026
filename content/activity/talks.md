@@ -15,6 +15,8 @@ Invited talks, research visits, classes, session chairing and other news. For do
 
 | Date | Title | Event |
 | --- | --- | --- |
+| 2025/06 | Co-organized [CCS/France Phd-Award](http://css-fr.org/prix-de-these-2025/)) | Besançon, France |
+
 | 2025/06 | Co-organizing TENET workshop|[TENET](https://sites.google.com/view/tenet-netsci/home) at Netsci2025(Maastricht) |  
 | 2025/01 | Birth of my daughter, Éléonore! | |
 | 2025/01 | Elected *Representative* of PCI Network Science | [PCI Network Science](https://networksci.peercommunityin.org) |
@@ -23,6 +25,7 @@ Invited talks, research visits, classes, session chairing and other news. For do
 
 | Date | Title | Event |
 | --- | --- | --- |
+| 2024/09 |. Co-organized [CCS/France Phd-Award](http://css-fr.org/prix-de-these-css-france-2024/) | Lyon, France |
 | 2024/06 | Chairing the *Network Machine Learning* session | [NetSci2024](https://netsci2024.com/en/program).  Quebec, Canada |
 | 2024/05 | Chairing the *Community Detection* session | [FRCCS24](https://iutdijon.u-bourgogne.fr/ccs-france-2024/).  Montpellier, France |
 | 2024/04 | 3 weeks visiting, TNA, [SoBigData Project](http://www.sobigdata.eu) | [Visiting summary](https://cazabetremy.fr/resources/soBigDataBlogPost2024.html) CNR, Pisa, Italy |
