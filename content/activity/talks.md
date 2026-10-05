@@ -1,9 +1,19 @@
-Invited talks, research visits, classes and session chairing. For doctoral examination committees, see [Thesis juries](https://cazabetremy.fr/?page=activity/theses#thesis-juries).
+Invited talks, research visits, classes, session chairing and other news. For doctoral examination committees, see [Thesis juries](https://cazabetremy.fr/?page=activity/theses#thesis-juries).
 
 ## 2025
 
 | Date | Title | Event |
 | --- | --- | --- |
+| 2026/09 | Starting new position  | Sorbonne Université, LIP6, Paris |
+| 2026/05| Presentation Inteligencia Artificial y Sistemos Complejos | [Zarzal, Colombia](https://www.instagram.com/tedesoft_zarzal/) | 
+| 2026/04| 2 Months visiting at Universidad Del Valle | [Univalle](https://www.univalle.edu.co/), Cali, Colombia|
+
+## 2025
+
+| Date | Title | Event |
+| --- | --- | --- |
+| 2025/06 | Co-organizing TENET workshop|[TENET](https://sites.google.com/view/tenet-netsci/home) at Netsci2025(Maastricht) |  
+| 2025/01 | Birth of my daughter, Éléonore! | |
 | 2025/01 | Elected *Representative* of PCI Network Science | [PCI Network Science](https://networksci.peercommunityin.org) |
 
 ## 2024
