@@ -1,8 +1,8 @@
 ## Classes 2026/2027
 
 - [Complex Networks · ENS de Lyon](https://cazabetremy.fr/?page=teaching/complex-networks)
-- [DALAS  · Master MIND · Sorbonne Université]()
-- [Mineure Science des Données  · L2 · Sorbonne Université]()
+- [DALAS  · Master MIND · Sorbonne Université](https://moodle-sciences-26.sorbonne-universite.fr/course/view.php?id=2854)
+- [Mineure Science des Données  · L2 · Sorbonne Université](https://moodle-sciences-26.sorbonne-universite.fr/course/view.php?id=2113)
 
 ## Overview
 * I'm currently in a Lecture SCAI position, with 96h of Teaching duty per year.
