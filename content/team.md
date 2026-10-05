@@ -10,7 +10,7 @@ On this page, I list students I'm currently working with, or that I have supervi
 
 ### PhD students
 
-- From 2025 - [Elia Altimani]([https://lairgiyassir.github.io](https://scholar.google.com/citations?user=VrhLzEQAAAAJ&hl=it)) - A network-based approach to model volcanic Plumbing Systems. Co-supervision with [Catherine Annen](https://scholar.google.com/citations?user=bf6Dj1EAAAAJ&hl=en) from the Institute of Geophysics, Czech Academy of Sciences
+- From 2025 - [Elia Altimani]([https://lairgiyassir.github.io](https://scholar.google.com/citations?user=VrhLzEQAAAAJ&hl=it) - A network-based approach to model volcanic Plumbing Systems. Co-supervision with [Catherine Annen](https://scholar.google.com/citations?user=bf6Dj1EAAAAJ&hl=en) from the Institute of Geophysics, Czech Academy of Sciences
 - From 2024 - [Yassir Lairgi](https://lairgiyassir.github.io) - Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN - With [Auvalie Innovation](https://auvalie.com) company, CIFRE funding
 
 
